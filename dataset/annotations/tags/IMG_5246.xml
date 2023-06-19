@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_5246.jpg</filename>
+	<path>C:\Users\Stef\Dropbox\CS\DS\dataset\images\IMG_5246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>1365</ymin>
+			<xmax>2125</xmax>
+			<ymax>3234</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_5425.JPG</filename>
+	<path>C:\Users\Stef\Dropbox\CS\DS\dataset\images\IMG_5425.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1137</xmin>
+			<ymin>1734</ymin>
+			<xmax>2168</xmax>
+			<ymax>3284</ymax>
+		</bndbox>
+	</object>
+</annotation>
