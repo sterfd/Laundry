@@ -1,0 +1,9 @@
+
+
+path: /Users/nakamata/Library/CloudStorage/Dropbox/CS/DS/train-yolo
+train: images
+val: images
+
+# Classes
+names:
+  0: icon
