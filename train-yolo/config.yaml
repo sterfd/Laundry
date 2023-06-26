@@ -1,0 +1,9 @@
+
+
+path: /Users/nakamata/Library/CloudStorage/Dropbox/CS/DS/dataset
+train: aug_images
+val: aug_images
+
+# Classes
+names:
+  0: icon
